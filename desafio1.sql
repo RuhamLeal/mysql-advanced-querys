@@ -65,9 +65,9 @@ DROP DATABASE IF EXISTS SpotifyClone;
 
   INSERT INTO SpotifyClone.Subscription (subscription_type, subscription_price)
   VALUES  ("gratuito", 0.00),
-          ("universitário", 5.99), 
-          ("pessoal", 6.99),
-          ("familiar", 7.99);
+          ("familiar", 7.99),
+          ("universitário", 5.99),
+          ("pessoal", 6.99);
 
   INSERT INTO SpotifyClone.User (user_name, user_age, subscription_id, subscription_date)
   VALUES  ("Barbara Liskov", 82, 1, "2019-10-20"),
