@@ -1,0 +1,9 @@
+Create a QUERY that should display four pieces of data:
+
+The first column should have the alias "faturamento_minimo" and display the lowest existing plan value for a person user.
+
+The second column should have the alias "faturamento_maximo" and display the highest plan value that exists for a person.
+
+The third column should have the alias "faturamento_medio" and display the average value of the plans owned by users so far.
+
+Finally, the fourth column should have the alias "faturamento_total" and show the total amount obtained from the plans owned by users.

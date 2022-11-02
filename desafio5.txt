@@ -1,0 +1,5 @@
+Create a QUERY that has two columns:
+
+The first column should have the alias "cancao" and display the name of the song.
+
+The second column should have the alias "reproducoes" and display the number of people who have already listened to the song in question.

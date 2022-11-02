@@ -1,0 +1,3 @@
+Create a QUERY that displays the number of songs that are currently present in the playback history of a specific user. For this case we want to know how many songs are in the history of the user "Barbara Liskov" and the query should return the following column:
+
+The value of the quantity, with the alias "quantidade_musicas_no_historico".

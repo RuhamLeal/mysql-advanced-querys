@@ -1,0 +1,5 @@
+Create a QUERY that should show the person users that were active as of the year 2021, based on the most recent date in the playback history.
+
+The first column should have the alias "usuario" and show the name of the user person.
+
+The second column should have the alias "status_usuario" and display whether the person is active or inactive.

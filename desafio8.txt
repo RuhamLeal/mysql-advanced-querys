@@ -1,0 +1,5 @@
+create a QUERY that the return should display the following columns:
+
+The name of the person artist, with the alias "artista".
+
+The name of the album, with the alias "album".

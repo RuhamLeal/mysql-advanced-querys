@@ -1,0 +1,7 @@
+Create a QUERY that displays three columns:
+
+The first column should display the total number of songs. Give this column the alias "cancoes".
+
+The second column should display the total number of artists and should have the alias "artistas".
+
+The third column should display the amount of albums and should have the alias "albuns".

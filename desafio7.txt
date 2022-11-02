@@ -1,0 +1,7 @@
+create a QUERY with the following columns:
+
+The first column should display the name of the person artist, with the alias "artista".
+
+The second column should display the name of the album, with the alias "album".
+
+The third column should display the amount of followers that the artist person has, with the alias "seguidores".

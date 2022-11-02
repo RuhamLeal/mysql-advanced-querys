@@ -1,0 +1,7 @@
+Create a QUERY that should have only three columns:
+
+The first column should have the alias "usuario" and display the name of the user person.
+
+The second column should have the alias "qt_de_musicas_ouvidas" and display the amount of songs listened to by the person based on his/her playback history.
+
+The third column should have the alias "total_minutos" and display the sum of minutes listened to by the user based on his/her playback history.
