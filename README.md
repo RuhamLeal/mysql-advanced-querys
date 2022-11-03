@@ -1,10 +1,32 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# mysql-advanced-querys
+
+A project I did that aims to accomplish some advanceds challenges about queries in MySQL
+
+
+# Table of contents
+
+- [Installation](#installation)
+- [More Info](#more-info)
+- [Contact](#contact)
+
+
+### Installation
+
+```
+Clone the repo:   
+$ git clone https://github.com/RuhamLeal/mysql-advanced-querys.git   
+
+Go to project folder:     
+$ cd mysql-advanced-querys   
+
+```
+
+### More Info
+
+This project was done with SQL and SGBD MySQL to do querys and build Data Base
+
+### Contact
+
+Ruham Leal    
+Email: ruhamxlpro@hotmail.com    
+Linkedin: https://www.linkedin.com/in/ruham-leal-dos-santos-sutil-38a837243/
